@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Babai Hero Naya ipudu3</h1>
-<h1 align="center"> RARA BANDA</h1>
+<h1 align="center"> YASMI</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
