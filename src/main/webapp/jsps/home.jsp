@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Chitti  Home Page</title>
-<link href="images/kkfunda.jpg" rel="icon">
+<link href="images/manam.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -31,7 +31,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/kkfunda.jpg" alt="" width="100">
+		<img src="images/manam.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		KK FUNDA, 
@@ -47,7 +47,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>KK FUNDA Training, Development Center.</p>
+<p align=center style="color: goldenrod;">AMRUTHAM HOTEL LO BHOJANAM SUPER</p>
 <p align=center><small>Copyrights 2024 by <a href="google.com/">KK FUNDA</a> </small></p>
 
 </body>
